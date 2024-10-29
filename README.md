@@ -1,5 +1,5 @@
-# course-tool-weixin-mini-program
-## 一款运行在微信上的查课小程序
+# course-tool-weixin-miniprogram
+### 一款运行在微信上的查课小程序
 ### 当前项目不是完整的，需等项目迁移完成！！！ 完整项目地址: <a href='https://github.com/CourseTool/courseTool-uni-app'>courseTool-uni-app</a>
 
 ### 安装依赖
